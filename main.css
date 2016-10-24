@@ -1,1 +1,83 @@
-/* Put your css here for your table and page styling */
+/* Put your css here for your table and page styling */<!DOCTYPE html>
+<html>
+	<!-- Head Tag -->
+	<head>
+		<title>Code Challenge #3</title>
+
+		<!-- CSS Link -->
+		<link rel="stylesheet" type="text/css" href="main.css">
+	</head>
+
+	<!-- Body Tag -->
+	<body>
+
+		<!-- Table Content: Organize the following content into an HTML table. -->
+		Name
+		<table style="width:100%">
+  <tr>
+    <th>zach</th>
+    <th>gates</th> 
+    <th>15036</th>
+  </tr>
+  <tr>
+    <td>Stefan</td>
+    <td>Heng</td> 
+    <td>3424</td>
+  </tr>
+  <tr>
+    <td>Michael</td>
+    <td>Brools</td> 
+    <td>2921</td>
+  </tr><table style="width:100%">
+  <tr>
+    <th>Jay</th>
+    <th>Sabio</th> 
+    <th>2359</th>
+  </tr>
+  <tr>
+    <td>Imani</td>
+    <td>Montilla</td> 
+    <td>2127</td>
+  </tr>
+  <tr>
+    <td>Jordan</td>
+    <td>Simmons</td> 
+    <td>1951</td>
+  </tr><table style="width:100%">
+  <tr>
+    <th>Dylan</th>
+    <th>Olson</th> 
+    <th>1811</th>
+  </tr>
+  <tr>
+    <td>Ryan</td>
+    <td>Harker</td> 
+    <td>1696</td>
+  </tr>
+  <tr>
+    <td>Josh</td>
+    <td>Sabio</td> 
+    <td>1696</td>
+  </tr><table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Ryan</td>
+    <td>Higginbothman</td> 
+    <td>1616</td>
+  </tr>
+  <tr>
+</table>
+			
+</table>
+			
+</table>
+			
+</table>
+	</body>
+</html>
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Stat
